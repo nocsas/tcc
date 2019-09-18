@@ -53,4 +53,23 @@ Praktikum Teknologi Clouud Computing
 ![16](image/config1.jpg)  
 
 ==> Isian di atas harus disesuaikan dengan nama serta email yang digunakan untuk mendaftar di GitHub. Untuk melihat konfigurasi yang sudah ada:  
-![17](image/config2.jpg)
+![17](image/config2.jpg)  
+
+3.Mengelola Repo Sendiri  
+==> Clone Repo  
+![18](image/clonerepo.jpg)  
+
+==> Menambahkan Semua File Ke Repo  
+![19](image/gitadd.jpg)  
+
+==> Melihat File Yang Ditambahkan Ke Repo  
+![20](image/gitstatuse.jpg)  
+
+==> Melakukan Commit  
+![21](image/commitm2.jpg)  
+
+==> Melakukan Push Ke Repo  
+![22](image/pushmasterm2.jpg)  
+
+==> Perintah Membaca File  
+![23](image/membacafile.jpg)  
