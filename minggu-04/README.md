@@ -48,7 +48,7 @@ Dalam pengembangannya Sugar CRM melibatkan banyak narasumber dari mulai operator
 6.  Selanjutnya konfigurasi database harus ditentukan, Jika server MySQL terletak pada server yang sama di mana instalasiakan dilakukan menggunakan localhost untuk Host Name. Untuk Nama Database, Database Administrator Username dan Password Admin database memasukkan rincian yang telah ditetapkan di Panel-> MySQLDatabases.  
 7.  Setelah selesai dari proses sebelumnya, Anda dapat memilih Database mengisi dengan opsi data.  
 ![4](image/4.jpg)  
-8. Pada halaman berikutnya tentukan username dan password administrator. Klik Next dan halaman dengan pengaturan database dan lingkungan dan kepercayaan sistem akan divisualisasikan. 
+8. Pada halaman berikutnya tentukan username dan password administrator. Klik Next dan halaman dengan pengaturan database dan lingkungan dan kepercayaan sistem akan divisualisasikan.  
 ![5](image/5.jpg)  
 9. Klik pada tombol Install untuk menyelesaikan instalasi skrip.  
 ![6](image/6.jpg)  
