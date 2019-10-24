@@ -1,5 +1,5 @@
 Nama    : dwi sasongko mukti  
-Nim     : 175410010
+Nim     : 175410010  
 Jurusan : Teknik Informatika  
 Matkul  : Praktik Teknologi Cloud Computing  
 __________________________  
