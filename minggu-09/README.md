@@ -12,7 +12,7 @@ Jurusan : Teknik Informatika
 
 ## Install Flask (Insatal Python Dulu)
     pip install flask  
-![2](image/2.png)  
+![2](image/2.PNG)  
 
 ##  Membuat File app.py Didalam Folder nocsas_hello_flask  
     from flask import Flask
@@ -134,7 +134,7 @@ From python sesuai versi python yang terinstall di komputer
     3680683af259        nocsas/nocsas_hello_flask:v1   "python app.py"     7 minutes ago       Up 3 minutes        0.0.0.0:5000->5000/tcp   pedantic_faraday  
 
 ## Cek Melalui Browser  
-![3](image/3.png)  
+![3](image/3.PNG)  
 
 ## Cek Melalui Terminal  
     C:\Users\Public\nocsas_hello_flask>curl http://localhost:5000
@@ -162,4 +162,4 @@ From python sesuai versi python yang terinstall di komputer
     340cae54f905: Skipped foreign layer
     c4d02418787d: Skipped foreign layer
     v1: digest: sha256:52a3419dc14e113809cd5e4524162314c5c6114a97de316b0c14394e544b2e13 size: 3947
-![4](image/4.png)
+![4](image/4.PNG)
