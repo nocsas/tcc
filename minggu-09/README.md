@@ -8,7 +8,7 @@ Jurusan : Teknik Informatika
 ## Membuat Folder dan Masuk Ke Folder  
     mkdir nocsas_hello_flask
     cd .\nocsas_hello_flask\
-![1](image/1.png)  
+![1](image/1.PNG)  
 
 ## Install Flask (Insatal Python Dulu)
     pip install flask  
