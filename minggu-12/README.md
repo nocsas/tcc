@@ -100,3 +100,4 @@ Matkul : Praktikum Teknologi Cloud Computing
 ## 6.Jalankan Drupal Di Browser  
     http://localhost:8088/core/install.php  
 ![1](image/1.PNG)
+![2](image/2.PNG)
