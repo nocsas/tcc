@@ -42,4 +42,12 @@ pada praktik ini adalah melakukan praktik git kolaborasi antar user untuk menged
 
 ## Materi Praktikum 11 :  
 [Minggu-11](https://github.com/nocsas/tcc/tree/master/minggu-11)  
-pada praktik ini adalah tugas kelompok menjelaskan IAAS, contoh software IAAS, dan membuat IAAS dengan alibabacloud.
+pada praktik ini adalah tugas kelompok menjelaskan IAAS, contoh software IAAS, dan membuat IAAS dengan alibabacloud.  
+
+## Materi Praktikum 12 :  
+[Minggu-12](https://github.com/nocsas/tcc/tree/master/minggu-12)  
+Pada praktik ini adalah membuat database postgres dengan menggabungkan drupal dengan docker compose.  
+
+## Materi Praktikum 13 :  
+[Minggu-13](https://github.com/nocsas/tcc/tree/master/minggu-13)  
+Pada praktik ini adalah membuat docker swarm
